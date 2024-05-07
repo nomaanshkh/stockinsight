@@ -14,7 +14,8 @@ from prophet.plot import plot_plotly
 import time  # time library
 from streamlit_option_menu import option_menu  # select_options library
 import numpy as np
-from newsapi import NewsApiClient
+from newsapi.newsapi_client import NewsApiClient
+
 
 st.set_page_config(layout="wide", initial_sidebar_state="expanded")
 # st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
