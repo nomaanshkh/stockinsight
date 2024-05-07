@@ -1,3 +1,3 @@
-# StockStream
+# Stockinsight
 
 https://stockinsight.onrender.com/
