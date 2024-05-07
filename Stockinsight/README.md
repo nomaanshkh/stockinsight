@@ -1,3 +1,3 @@
 # StockStream
 
-https://stockinsight.onrender.com/)
+https://stockinsight.onrender.com/
