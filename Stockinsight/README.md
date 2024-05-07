@@ -1,3 +1,3 @@
 # StockStream
 
-https://stockinsight.streamlit.app/
+https://stockinsight.onrender.com/)
